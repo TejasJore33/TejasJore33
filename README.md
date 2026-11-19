@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:22d3ee&height=160&section=header&text=Tejas%20Jore&fontColor=06080c&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Tejas Jore — Full-Stack Developer" width="100%" />
 
 <a href="https://tejasjore33.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=560&lines=Full-stack+products+with+React+%26+NestJS;HR+%26+SaaS+platforms;Typed+APIs%2C+real-time+features%2C+integrations" alt="Typing animation: what I build" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=560&lines=Multi-tenant+SaaS+%26+marketplaces;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+.NET;Payments%2C+real-time%2C+maps+%26+mobile" alt="Typing animation: what I build" />
 </a>
 
 <p>
@@ -15,31 +15,37 @@
 
 ### About me
 
-- Full-stack developer working mainly in **TypeScript and JavaScript** — **React** on the front end, **NestJS / Node.js** on the back end.
-- Building **[PeoplePilot OS](https://peoplepilotos.com/)**, an HR platform with payroll, Indian statutory compliance and an AI HR assistant.
-- Comfortable with the hard parts of a backend: **JWT & Google OAuth**, **real-time chat with Socket.IO**, **Razorpay** payments, **Twilio** SMS, **Cloudinary / AWS** media and **Firebase** notifications.
-- I like owning a feature end to end — schema, API, UI and deploy.
+- Full-stack developer building **multi-tenant SaaS, marketplaces and client products** end to end.
+- Mostly **TypeScript** — **React / Next.js** on the front end, **Node.js, Express, NestJS** on the back end, **PostgreSQL + Prisma, Redis + BullMQ** for data — and **C# / .NET + MAUI** where it fits.
+- Contributor to **[PeoplePilot OS](https://peoplepilotos.com/)**, an enterprise HRMS with payroll and Indian statutory compliance.
+- Day-to-day comfort zone: auth & RBAC, real-time with Socket.IO, **Razorpay** payments, **Google Maps**, file storage, notifications and Docker-based deploys.
+- Most of my product and client work lives in **private repositories** — happy to walk through architecture and code on a call.
 
 ### Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,bootstrap,html,css&perline=8" alt="Frontend: TypeScript, JavaScript, React, Vite, Tailwind, Bootstrap, HTML, CSS" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,mongodb,firebase,aws,vercel&perline=8" alt="Backend: Node.js, NestJS, Express, Prisma, MongoDB, Firebase, AWS, Vercel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet,cs,prisma,postgres,redis&perline=8" alt="Backend: Node.js, NestJS, Express, Prisma, MongoDB, Firebase, AWS, Vercel" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode&perline=8" alt="Tools: Git, GitHub, GitHub Actions, Postman, VS Code" />
+  <img src="https://skillicons.dev/icons?i=nextjs,mongodb,supabase,firebase,docker,aws,githubactions,vercel&perline=8" alt="Tools: Git, GitHub, GitHub Actions, Postman, VS Code" />
 </p>
 
 ### Featured work
 
-| Project | What it is | Links |
-| --- | --- | --- |
-| **PeoplePilot OS** | Cloud HR platform — hiring, onboarding, payroll, leave, performance, analytics and an AI HR assistant. | [Live](https://peoplepilotos.com/) |
-| **Avis Engineering & Consultancy** | Website for an NDT (non-destructive testing) engineering consultancy, built with React. | [Live](https://avisengineering.com/) |
-| **Matrimonial Platform API** | NestJS + Prisma backend: OAuth, real-time chat, payments, SMS, media uploads and push notifications. | [Code](https://github.com/TejasJore33/matrimonial-backend) |
-| **Aalandi Survey** | React survey app with separate admin and user logins. | [Live](https://aalandi-survey.vercel.app) · [Code](https://github.com/TejasJore33/aalandi-survey) |
-| **Image to Base64 Converter** | Drag-and-drop image encoder with dark mode. | [Live](https://react-gamma-three-61.vercel.app) · [Code](https://github.com/TejasJore33/React) |
-| **This portfolio** | React + Vite + Tailwind, auto-deployed with GitHub Actions. | [Live](https://tejasjore33.github.io) · [Code](https://github.com/TejasJore33/TejasJore33.github.io) |
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **PeoplePilot OS** *(contributor)* | Enterprise multi-tenant HRMS — hiring, attendance, payroll & statutory compliance, performance, AI HR assistant. | TypeScript · React · Node.js · PostgreSQL · Redis | [Live](https://peoplepilotos.com/) |
+| **Mangalam Shadi** | Matrimonial platform with advanced matching, real-time chat, premium plans and an Android app. | React · Express · Socket.IO · Firebase · Razorpay · Capacitor | [API code](https://github.com/TejasJore33/matrimonial-backend) |
+| **AVIS Engineering** | Platform for an NDT consultancy — services, quotations, billing dashboard, PDF documents. | React · TypeScript · Firebase · React-PDF | [Live](https://avisengineering.com/) |
+| **Ratibz** | Daily-subscription & local-delivery marketplace with customer and partner mobile apps. | C# · ASP.NET Core · .NET MAUI · Clean Architecture | Private |
+| **VetCare 360** | Multi-tenant platform for veterinary clinics with admin console and real-time features. | Express · Prisma · PostgreSQL · BullMQ · Docker | Private |
+| **SastaMastaRide** | Two-wheeler ride-pooling MVP with maps and in-app payments. | React · Express · Google Maps · Razorpay | Private |
+| **TutorMarket** | Marketplace to discover and compare local tutors and coaching institutes. | React · Leaflet · Prisma · OpenAPI | Private |
+| **Mealora** | Food marketplace for home cooks and cloud kitchens with meal subscriptions. | Express · Prisma · PostgreSQL · S3 | Private |
+| **GlowNest** | Parlour booking and management app. | React · Firebase · Recharts | [Live](https://parour.vercel.app/) |
+
+<sub>Portfolio with details: <a href="https://tejasjore33.github.io">tejasjore33.github.io</a></sub>
 
 ### GitHub stats
 
