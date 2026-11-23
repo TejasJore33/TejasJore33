@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:22d3ee&height=160&section=header&text=Tejas%20Jore&fontColor=06080c&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Tejas Jore — Full-Stack Developer" width="100%" />
 
 <a href="https://tejasj.is-a.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=560&lines=Multi-tenant+SaaS+%26+marketplaces;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+.NET;Payments%2C+real-time%2C+maps+%26+mobile" alt="Typing animation: what I build" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=560&lines=Agentic+AI+%26+AI+agents;Multi-tenant+SaaS+%26+marketplaces;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+.NET;Payments%2C+real-time%2C+maps+%26+mobile" alt="Typing animation: what I build" />
 </a>
 
 <p>
@@ -16,9 +16,10 @@
 
 ### About me
 
-- **Freelance full-stack developer in Pune, Maharashtra** — building **web apps, multi-tenant SaaS, marketplaces and mobile apps** end to end for startups and businesses across India.
+- **Freelance full-stack developer in Pune, Maharashtra** — building **agentic AI apps, web apps, multi-tenant SaaS, marketplaces and mobile apps** end to end for startups and businesses across India.
 - 📞 Call / WhatsApp **+91 97302 77210** · ✉️ **tejasjore33@gmail.com**
 - Mostly **TypeScript** — **React / Next.js** on the front end, **Node.js, Express, NestJS** on the back end, **PostgreSQL + Prisma, Redis + BullMQ** for data — and **C# / .NET + MAUI** where it fits.
+- **Agentic AI:** AI agents that call tools and APIs, RAG over business data, MCP, and workflow automation with Claude / OpenAI.
 - Contributor to **[PeoplePilot OS](https://peoplepilotos.com/)**, an enterprise HRMS with payroll and Indian statutory compliance.
 - Day-to-day comfort zone: auth & RBAC, real-time with Socket.IO, **Razorpay** payments, **Google Maps**, file storage, notifications and Docker-based deploys.
 - Most of my product and client work lives in **private repositories** — happy to walk through architecture and code on a call.
