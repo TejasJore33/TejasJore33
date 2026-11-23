@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:22d3ee&height=160&section=header&text=Tejas%20Jore&fontColor=06080c&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Tejas Jore — Full-Stack Developer" width="100%" />
 
-<a href="https://tejasjore33.github.io">
+<a href="https://tejasj.is-a.dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=560&lines=Multi-tenant+SaaS+%26+marketplaces;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+.NET;Payments%2C+real-time%2C+maps+%26+mobile" alt="Typing animation: what I build" />
 </a>
 
 <p>
-  <a href="https://tejasjore33.github.io"><img src="https://img.shields.io/badge/Portfolio-tejasjore33.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://tejasj.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-tejasj.is--a.dev-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:tejasjore33@gmail.com"><img src="https://img.shields.io/badge/Email-tejasjore33%40gmail.com-0b0f16?style=for-the-badge&logo=gmail&logoColor=34d399" alt="Email" /></a>
 </p>
 
@@ -45,7 +45,7 @@
 | **Mealora** | Food marketplace for home cooks and cloud kitchens with meal subscriptions. | Express · Prisma · PostgreSQL · S3 | Private |
 | **GlowNest** | Parlour booking and management app. | React · Firebase · Recharts | [Live](https://parour.vercel.app/) |
 
-<sub>Portfolio with details: <a href="https://tejasjore33.github.io">tejasjore33.github.io</a></sub>
+<sub>Portfolio with details: <a href="https://tejasj.is-a.dev">tejasj.is-a.dev</a></sub>
 
 ### GitHub stats
 
