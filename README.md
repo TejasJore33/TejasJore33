@@ -8,6 +8,7 @@
 
 <p>
   <a href="https://tejasj.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-tejasj.is--a.dev-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://wa.me/919730277210"><img src="https://img.shields.io/badge/WhatsApp-%2B91%2097302%2077210-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +91 97302 77210" /></a>
   <a href="mailto:tejasjore33@gmail.com"><img src="https://img.shields.io/badge/Email-tejasjore33%40gmail.com-0b0f16?style=for-the-badge&logo=gmail&logoColor=34d399" alt="Email" /></a>
 </p>
 
@@ -15,7 +16,8 @@
 
 ### About me
 
-- Full-stack developer building **multi-tenant SaaS, marketplaces and client products** end to end.
+- **Freelance full-stack developer in Pune, Maharashtra** — building **web apps, multi-tenant SaaS, marketplaces and mobile apps** end to end for startups and businesses across India.
+- 📞 Call / WhatsApp **+91 97302 77210** · ✉️ **tejasjore33@gmail.com**
 - Mostly **TypeScript** — **React / Next.js** on the front end, **Node.js, Express, NestJS** on the back end, **PostgreSQL + Prisma, Redis + BullMQ** for data — and **C# / .NET + MAUI** where it fits.
 - Contributor to **[PeoplePilot OS](https://peoplepilotos.com/)**, an enterprise HRMS with payroll and Indian statutory compliance.
 - Day-to-day comfort zone: auth & RBAC, real-time with Socket.IO, **Razorpay** payments, **Google Maps**, file storage, notifications and Docker-based deploys.
