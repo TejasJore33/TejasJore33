@@ -1,0 +1,31 @@
+{
+  "user": "tejas",
+  "host": "github",
+  "about": [
+    ["Now", "Freelance Full-Stack & Agentic AI Developer"],
+    ["Building", "VetCare 360 · Ratibz marketplace"],
+    ["Also", "Contributor — PeoplePilot OS (HRMS)"],
+    ["Based", "Pune, Maharashtra, India"],
+    ["Work", "Freelance · remote / on-site in Pune"]
+  ],
+  "stack": [
+    ["AI", "AI agents, tool calling, MCP, RAG, Claude/OpenAI"],
+    ["Frontend", "React, Next.js, TypeScript, Tailwind"],
+    ["Backend", "Node.js, NestJS, Express, ASP.NET Core"],
+    ["Mobile", "Capacitor, .NET MAUI, React Native"],
+    ["Database", "PostgreSQL, Prisma, Redis, MongoDB"],
+    ["Cloud", "Docker, GitHub Actions, Vercel, Nginx"]
+  ],
+  "highlights": [
+    "Enterprise multi-tenant HRMS with payroll",
+    "Matrimonial platform + Android app",
+    "Subscription marketplace with MAUI apps",
+    "NDT engineering platform: quotes & billing",
+    "Agentic AI & workflow automation"
+  ],
+  "contact": [
+    ["Phone", "+91 97302 77210"],
+    ["Email", "tejasjore33@gmail.com"],
+    ["Web", "tejasj.is-a.dev"]
+  ]
+}
